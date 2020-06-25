@@ -1,0 +1,12 @@
+.button-group{
+    margin-top: 30px;
+}
+
+.button-single{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.button-single:last-child{
+    margin-right: 0;
+}
