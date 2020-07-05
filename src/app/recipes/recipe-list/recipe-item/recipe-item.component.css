@@ -1,0 +1,33 @@
+.List{
+    border: 2px solid rgb(180, 180, 180);
+    margin-bottom: 20px;
+    height: 100%;
+    display: block;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+
+.ListLink{
+    
+}
+
+.ListDetails{
+    float: left;
+    padding: 25px;
+}
+
+.ListImage{
+    float: right;
+    clear: right;
+    padding: 20px;
+    
+}
+.recipe-image{
+   height: 80px;
+   width: 80px;
+   margin-right: 60px;
+}
